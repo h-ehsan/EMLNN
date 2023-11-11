@@ -1,6 +1,4 @@
 """
-This is the implementation of model proposed in the paper "Expanding Analytical Capabilities in Intrusion Detection
-through Ensemble-Based Multi-Label Classification" submitted in Computers & Security, Elsevier.
 Copyright (C) 2023 Ehsan Hallaji
 All rights reserved.
 """
