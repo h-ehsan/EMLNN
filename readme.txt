@@ -1,3 +1,11 @@
+# Ensemble-based Multi-Label Neural Network (EMLNN)
+
+This is an implementation of the EMLNN algorithm proposed in the following paper:
+
+[*Expanding Analytical Capabilities in Intrusion Detection through Ensemble-Based Multi-Label Classification*, Computers & Security, pp. 103730, 2024.](https://doi.org/10.1016/j.cose.2024.103730)
+
+
+**Instructions:**
 Run the code using the following command (should navigate to the code folder first):
 python main.py [address to local train data.csv] [address to local test data.csv]
 
